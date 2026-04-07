@@ -1,0 +1,19 @@
+{
+  "id": "3-day-high-protein-1200",
+  "name": "3-Day High-Protein Under 1200 Cal",
+  "description": "A focused 3-day meal prep plan emphasizing high protein intake while keeping daily calories around 1200. Perfect for cutting phases or anyone looking to maximize protein on a calorie budget.",
+  "tags": ["high-protein", "low-cal", "3-day", "meal-prep"],
+  "dailyCalorieTarget": 1200,
+  "days": [
+    {
+      "label": "Days 1\u20133",
+      "meals": [
+        { "mealType": "breakfast", "recipeId": "cottage-cheese-egg-muffins" },
+        { "mealType": "lunch", "recipeId": "cheesy-chicken-veggie-rice" },
+        { "mealType": "snack", "recipeId": "high-protein-apple-yogurt" },
+        { "mealType": "dinner", "recipeId": "low-carb-chicken-pizza" }
+      ]
+    }
+  ],
+  "dateAdded": "2026-04-07"
+}

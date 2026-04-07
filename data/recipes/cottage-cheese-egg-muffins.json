@@ -1,0 +1,46 @@
+{
+  "id": "cottage-cheese-egg-muffins",
+  "name": "Cottage Cheese Egg Muffins",
+  "mealType": "breakfast",
+  "tags": ["high-protein", "meal-prep", "vegetarian", "low-cal"],
+  "nutrition": {
+    "calories": 280,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 16
+  },
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 22,
+  "description": "Fluffy, protein-packed egg muffins loaded with cottage cheese, feta, and fresh vegetables. Perfect grab-and-go breakfast for busy mornings.",
+  "ingredientSections": [
+    {
+      "heading": null,
+      "items": [
+        "5 eggs",
+        "1 tsp salt",
+        "\u00bc tsp black pepper",
+        "120g cottage cheese",
+        "30g oat flour",
+        "\u00bd tsp baking powder",
+        "40g red bell pepper",
+        "40g red onion",
+        "50g green onion",
+        "Spinach leaves",
+        "85g feta cheese",
+        "Dried basil"
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven to 190\u00b0C. Grease a muffin tin.",
+    "Whisk together eggs, cottage cheese, oat flour, baking powder, salt, and pepper until smooth.",
+    "Dice the red bell pepper, red onion, and green onion. Roughly chop the spinach.",
+    "Fold the vegetables, crumbled feta, and a pinch of dried basil into the egg mixture.",
+    "Pour evenly into 6 muffin cups (fills about \u00be full).",
+    "Bake for 20\u201322 minutes until set in the center and lightly golden on top.",
+    "Cool slightly before removing. Store in fridge up to 4 days."
+  ],
+  "notes": "Store in fridge up to 4 days. Reheat in microwave for 30-45 seconds.",
+  "dateAdded": "2026-04-07"
+}

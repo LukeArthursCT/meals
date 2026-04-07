@@ -1,0 +1,53 @@
+{
+  "id": "low-carb-chicken-pizza",
+  "name": "Low-Carb Chicken Crust Pizza",
+  "mealType": "dinner",
+  "tags": ["high-protein", "meal-prep", "low-carb", "low-cal"],
+  "nutrition": {
+    "calories": 320,
+    "protein": 46,
+    "carbs": 5,
+    "fat": 10
+  },
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 30,
+  "description": "A pizza with a crust made entirely from seasoned ground chicken. Topped with tomato sauce, vegetables, and mozzarella for a guilt-free dinner.",
+  "ingredientSections": [
+    {
+      "heading": "Crust",
+      "items": [
+        "340g ground chicken",
+        "40g grated low-fat mozzarella",
+        "1 egg",
+        "1 tbsp parsley",
+        "1 tsp Italian seasoning",
+        "\u00bd tsp garlic powder",
+        "\u00bd tsp salt",
+        "\u00bc tsp black pepper"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "60g tomato sauce",
+        "Onion rings",
+        "Green bell pepper",
+        "3 small mushrooms",
+        "1 tbsp black olives",
+        "1 tbsp grated low-fat mozzarella"
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200\u00b0C. Line a baking sheet with parchment paper.",
+    "Combine ground chicken, mozzarella, egg, parsley, Italian seasoning, garlic powder, salt, and pepper. Mix well.",
+    "Press the mixture out into a thin, flat round crust on the parchment (about 6mm thick).",
+    "Bake the crust for 20 minutes until firm and lightly golden.",
+    "Spread tomato sauce over the crust, then add sliced onion, bell pepper, mushrooms, olives, and top with mozzarella.",
+    "Return to oven for 8\u201310 minutes until cheese is melted and bubbly.",
+    "Slice into portions and store in airtight containers for up to 4 days."
+  ],
+  "notes": "Store in airtight containers for up to 4 days. Reheat in oven at 180\u00b0C for best results.",
+  "dateAdded": "2026-04-07"
+}

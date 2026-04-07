@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "id": "cottage-cheese-egg-muffins",
+      "name": "Cottage Cheese Egg Muffins",
+      "mealType": "breakfast",
+      "tags": ["high-protein", "meal-prep", "vegetarian", "low-cal"],
+      "calories": 280,
+      "protein": 20,
+      "servings": 3,
+      "prepTime": 15
+    },
+    {
+      "id": "cheesy-chicken-veggie-rice",
+      "name": "Cheesy Chicken & Veggie Rice Bowl",
+      "mealType": "lunch",
+      "tags": ["high-protein", "meal-prep", "low-cal"],
+      "calories": 370,
+      "protein": 28,
+      "servings": 3,
+      "prepTime": 15
+    },
+    {
+      "id": "high-protein-apple-yogurt",
+      "name": "High-Protein Apple Yogurt Salad",
+      "mealType": "snack",
+      "tags": ["high-protein", "meal-prep", "vegetarian", "no-cook", "low-cal"],
+      "calories": 280,
+      "protein": 10,
+      "servings": 3,
+      "prepTime": 10
+    },
+    {
+      "id": "low-carb-chicken-pizza",
+      "name": "Low-Carb Chicken Crust Pizza",
+      "mealType": "dinner",
+      "tags": ["high-protein", "meal-prep", "low-carb", "low-cal"],
+      "calories": 320,
+      "protein": 46,
+      "servings": 3,
+      "prepTime": 15
+    }
+  ]
+}

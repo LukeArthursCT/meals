@@ -1,0 +1,46 @@
+{
+  "id": "cheesy-chicken-veggie-rice",
+  "name": "Cheesy Chicken & Veggie Rice Bowl",
+  "mealType": "lunch",
+  "tags": ["high-protein", "meal-prep", "low-cal"],
+  "nutrition": {
+    "calories": 370,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 14
+  },
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "description": "Seasoned chicken breast with saut\u00e9ed vegetables and rice, topped with melted cheddar. A satisfying and balanced lunch bowl.",
+  "ingredientSections": [
+    {
+      "heading": null,
+      "items": [
+        "280g chicken breast",
+        "Salt & black pepper",
+        "1 tsp paprika",
+        "1 tsp cayenne pepper",
+        "1 tsp garlic powder",
+        "1 tsp olive oil",
+        "1 medium red onion",
+        "1 small zucchini",
+        "6 small mushrooms",
+        "1 medium red bell pepper",
+        "3 cloves garlic",
+        "185g cooked rice",
+        "55g cheddar cheese"
+      ]
+    }
+  ],
+  "steps": [
+    "Season chicken breast with salt, pepper, paprika, cayenne, and garlic powder.",
+    "Cook chicken in olive oil over medium-high heat, about 6\u20137 minutes per side, until cooked through. Slice or dice.",
+    "In the same pan, saut\u00e9 diced red onion and minced garlic for 2 minutes.",
+    "Add sliced zucchini, mushrooms, and bell pepper. Cook 5\u20136 minutes until tender.",
+    "Stir in the cooked rice and mix everything together.",
+    "Top with shredded cheddar and let it melt. Divide into 3 meal prep containers with the chicken."
+  ],
+  "notes": "Store in fridge up to 4 days. Reheat in microwave for 2-3 minutes.",
+  "dateAdded": "2026-04-07"
+}

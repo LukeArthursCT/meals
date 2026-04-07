@@ -1,0 +1,38 @@
+{
+  "id": "high-protein-apple-yogurt",
+  "name": "High-Protein Apple Yogurt Salad",
+  "mealType": "snack",
+  "tags": ["high-protein", "meal-prep", "vegetarian", "no-cook", "low-cal"],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 14
+  },
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 0,
+  "description": "Creamy Greek yogurt mixed with peanut butter, honey, fresh fruit, and crunchy peanuts. A quick, no-cook high-protein snack.",
+  "ingredientSections": [
+    {
+      "heading": null,
+      "items": [
+        "240g Greek yogurt",
+        "3 tbsp peanut butter",
+        "1 tbsp honey",
+        "1 medium green apple",
+        "6 strawberries",
+        "3 tbsp chopped peanuts"
+      ]
+    }
+  ],
+  "steps": [
+    "Mix Greek yogurt, peanut butter, and honey together until smooth and creamy.",
+    "Dice the green apple and halve the strawberries.",
+    "Fold the fruit into the yogurt mixture.",
+    "Top with chopped peanuts for crunch.",
+    "Divide into 3 small containers. Best eaten within 2 days (keeps the apple from browning)."
+  ],
+  "notes": "Best eaten within 2 days to keep the apple from browning. Add a squeeze of lemon to the apple if prepping ahead.",
+  "dateAdded": "2026-04-07"
+}

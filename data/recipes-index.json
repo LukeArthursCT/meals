@@ -49,6 +49,16 @@
       "protein": 44,
       "servings": 3,
       "prepTime": 20
+    },
+    {
+      "id": "smoky-honey-chili-lasagne",
+      "name": "Smoky Honey Chili Lasagne",
+      "mealType": "dinner",
+      "tags": ["meal-prep"],
+      "calories": 500,
+      "protein": 38,
+      "servings": 4,
+      "prepTime": 15
     }
   ]
 }

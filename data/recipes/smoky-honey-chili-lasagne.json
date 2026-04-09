@@ -1,0 +1,66 @@
+{
+  "id": "smoky-honey-chili-lasagne",
+  "name": "Smoky Honey Chili Lasagne",
+  "mealType": "dinner",
+  "tags": ["meal-prep"],
+  "nutrition": {
+    "calories": 500,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 20
+  },
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "description": "A smoky, slightly spicy lasagne with ground chicken, zucchini, bell pepper, ricotta, and mozzarella, finished with lemon zest and fresh basil.",
+  "ingredientSections": [
+    {
+      "heading": "Meat Sauce",
+      "items": [
+        "350-400g ground chicken or lean ground beef",
+        "1 onion (diced)",
+        "2 cloves garlic (minced)",
+        "1 zucchini (small cubes)",
+        "1 bell pepper (diced)",
+        "400g canned diced tomatoes",
+        "1 tbsp tomato paste",
+        "1 tsp smoked paprika",
+        "0.5 tsp chili flakes (more for extra heat)",
+        "1 tsp honey",
+        "Small splash balsamic vinegar",
+        "Italian herbs",
+        "Salt & pepper",
+        "Olive oil for cooking"
+      ]
+    },
+    {
+      "heading": "Assembly",
+      "items": [
+        "6-9 lasagne sheets",
+        "250g ricotta or cottage cheese",
+        "1 ball mozzarella (or ~80g grated cheese)"
+      ]
+    },
+    {
+      "heading": "Finishing (optional)",
+      "items": [
+        "Zest of half a lemon",
+        "Fresh basil",
+        "Drizzle of olive oil"
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200°C. Dice all vegetables.",
+    "Heat oil in a large pan. Brown the ground meat until crumbly.",
+    "Add onion and garlic, cook for 2 minutes.",
+    "Add zucchini and bell pepper, cook for 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute to deepen the flavor.",
+    "Add diced tomatoes, smoked paprika, chili flakes, Italian herbs, salt, and pepper. Simmer gently for 8-10 minutes.",
+    "Stir in honey and a small splash of balsamic vinegar. Taste and adjust seasoning — add more chili for extra kick.",
+    "Layer in a baking dish: sauce, lasagne sheets, spoonfuls of ricotta. Repeat. Finish with sauce and mozzarella on top.",
+    "Bake for 25-30 minutes until golden brown and bubbling.",
+    "Rest for 5 minutes before serving. Finish with lemon zest, fresh basil, and a drizzle of olive oil."
+  ],
+  "dateAdded": "2026-04-09"
+}

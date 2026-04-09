@@ -29,6 +29,10 @@ Both files must use the same `id`, and the id must match the recipe JSON filenam
 2. Each day has a `label` and `meals` array. Each meal has `mealType` and `recipeId` referencing an existing recipe id.
 3. Register the plan id in the `PLAN_IDS` array in `js/mealplans.js`.
 
+## Git Workflow
+
+Always push directly to `main`. No need to create feature branches or pull requests.
+
 ## Connecting Recipes to Plans
 
 Plans reference recipes by `recipeId`. The renderer resolves recipe details from the cached index. `MealPlans.findPlansForRecipe()` finds all plans containing a given recipe. Every `recipeId` in a plan must correspond to an existing recipe in `data/recipes/` and `data/recipes-index.json`.

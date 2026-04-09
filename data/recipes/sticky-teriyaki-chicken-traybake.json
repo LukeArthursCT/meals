@@ -4,10 +4,10 @@
   "mealType": "dinner",
   "tags": ["meal-prep", "traybake"],
   "nutrition": {
-    "calories": "?",
-    "protein": "?",
-    "carbs": "?",
-    "fat": "?"
+    "calories": 700,
+    "protein": 44,
+    "carbs": 55,
+    "fat": 35
   },
   "servings": 3,
   "prepTime": 20,

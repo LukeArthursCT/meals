@@ -45,8 +45,8 @@
       "name": "Sticky Teriyaki Chicken Traybake with Shiitake & Feta",
       "mealType": "dinner",
       "tags": ["meal-prep", "traybake"],
-      "calories": "?",
-      "protein": "?",
+      "calories": 700,
+      "protein": 44,
       "servings": 3,
       "prepTime": 20
     }

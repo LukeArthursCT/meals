@@ -23,11 +23,14 @@ Static meal prep recipe browser and meal plan viewer. Vanilla JavaScript, no bui
 
 Both files must use the same `id`, and the id must match the recipe JSON filename (without `.json`).
 
+3. **Bump `DATA_VERSION`** in `js/app.js` by 1 to bust browser cache.
+
 ## Adding a Meal Plan
 
 1. Create `data/meal-plans/{plan-id}.json` with `id`, `name`, `description`, `tags`, `dailyCalorieTarget`, `days` array, and `dateAdded`.
 2. Each day has a `label` and `meals` array. Each meal has `mealType` and `recipeId` referencing an existing recipe id.
 3. Register the plan id in the `PLAN_IDS` array in `js/mealplans.js`.
+4. **Bump `DATA_VERSION`** in `js/app.js` by 1 to bust browser cache.
 
 ## Git Workflow
 

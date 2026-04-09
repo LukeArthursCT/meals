@@ -39,6 +39,16 @@
       "protein": 46,
       "servings": 3,
       "prepTime": 15
+    },
+    {
+      "id": "sticky-teriyaki-chicken-traybake",
+      "name": "Sticky Teriyaki Chicken Traybake with Shiitake & Feta",
+      "mealType": "dinner",
+      "tags": ["meal-prep", "traybake"],
+      "calories": "?",
+      "protein": "?",
+      "servings": 3,
+      "prepTime": 20
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "id": "sticky-teriyaki-chicken-traybake",
+  "name": "Sticky Teriyaki Chicken Traybake with Shiitake & Feta",
+  "mealType": "dinner",
+  "tags": ["meal-prep", "traybake"],
+  "nutrition": {
+    "calories": "?",
+    "protein": "?",
+    "carbs": "?",
+    "fat": "?"
+  },
+  "servings": 3,
+  "prepTime": 20,
+  "cookTime": 30,
+  "description": "A sticky teriyaki-glazed chicken traybake roasted with sweet potatoes, bell peppers, zucchini, red onions, and shiitake mushrooms, finished with lime zest, chili flakes, cashews, sesame seeds, spring onions, and crumbled feta.",
+  "ingredientSections": [
+    {
+      "heading": "Protein",
+      "items": [
+        "400-450g chicken (thigh for juicier, breast for leaner)"
+      ]
+    },
+    {
+      "heading": "Vegetables",
+      "items": [
+        "2 medium sweet potatoes",
+        "2 bell peppers",
+        "1 large zucchini or whole broccoli",
+        "1-2 red onions",
+        "200-250g shiitake mushrooms"
+      ]
+    },
+    {
+      "heading": "Teriyaki Glaze",
+      "items": [
+        "5 tbsp teriyaki sauce",
+        "1.5 tsp honey",
+        "1.5 tsp sesame oil or olive oil",
+        "1.5 tsp grated ginger",
+        "1 small splash balsamic or rice vinegar",
+        "2 cloves garlic"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "Zest + juice of 1 lime",
+        "Chili flakes or sriracha to taste",
+        "Large handful cashews or peanuts",
+        "Sesame seeds",
+        "2 spring onions",
+        "~100g feta"
+      ]
+    },
+    {
+      "heading": "For Roasting",
+      "items": [
+        "2-3 tbsp olive oil",
+        "Salt & pepper"
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200°C.",
+    "Roughly chop all vegetables. Toss with 2-3 tbsp olive oil, salt, and pepper. Spread on a large baking tray (or 2) — use plenty of surface area so veggies roast rather than steam.",
+    "Mix all teriyaki glaze ingredients together.",
+    "Place chicken on top of the vegetables and coat generously with the glaze.",
+    "Bake for 15 minutes.",
+    "Remove tray, toss the vegetables, and drizzle an extra small spoonful of teriyaki over the shiitake mushrooms.",
+    "Bake for another 15 minutes. Optionally switch to grill/broil for the last 5 minutes.",
+    "Remove from oven and finish with lime zest and juice, chili flakes, cashews, sesame seeds, sliced spring onions, and crumbled feta."
+  ],
+  "notes": "For 3 servings, use plenty of tray space — better to use 2 trays than to overcrowd. Overcrowding causes steaming instead of roasting, which reduces flavor.",
+  "dateAdded": "2026-04-09"
+}

@@ -6,7 +6,7 @@ const Recipes = (() => {
 
   async function loadIndex() {
     if (indexCache) return indexCache;
-    const res = await fetch('data/recipes-index.json');
+    const res = await fetch(`data/recipes-index.json?v=${DATA_VERSION}`);
     const data = await res.json();
     indexCache = data.recipes;
     return indexCache;
@@ -14,7 +14,7 @@ const Recipes = (() => {
 
   async function loadRecipe(id) {
     if (recipeCache[id]) return recipeCache[id];
-    const res = await fetch(`data/recipes/${id}.json`);
+    const res = await fetch(`data/recipes/${id}.json?v=${DATA_VERSION}`);
     const recipe = await res.json();
     recipeCache[id] = recipe;
     return recipe;

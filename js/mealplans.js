@@ -19,7 +19,7 @@ const MealPlans = (() => {
 
   async function loadPlan(id) {
     if (planCache[id]) return planCache[id];
-    const res = await fetch(`data/meal-plans/${id}.json`);
+    const res = await fetch(`data/meal-plans/${id}.json?v=${DATA_VERSION}`);
     const plan = await res.json();
     planCache[id] = plan;
     return plan;

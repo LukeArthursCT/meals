@@ -19,7 +19,7 @@ Static meal prep recipe browser and meal plan viewer. Vanilla JavaScript, no bui
 ## Adding a Recipe
 
 1. Create `data/recipes/{recipe-id}.json` with full recipe details including `id`, `name`, `mealType` (breakfast|lunch|snack|dinner), `tags`, `nutrition` (calories, protein, carbs, fat), `servings`, `prepTime`, `cookTime`, `ingredientSections`, `steps`, and `dateAdded`.
-2. Add a matching summary entry to `data/recipes-index.json` with `id`, `name`, `mealType`, `tags`, `calories`, `protein`, `servings`, and `prepTime`.
+2. Add a matching summary entry to `data/recipes-index.json` with `id`, `name`, `mealType`, `tags`, `calories`, `protein`, `servings`, `prepTime`, and `cookTime`.
 
 Both files must use the same `id`, and the id must match the recipe JSON filename (without `.json`).
 

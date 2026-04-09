@@ -8,7 +8,8 @@
       "calories": 280,
       "protein": 20,
       "servings": 3,
-      "prepTime": 15
+      "prepTime": 15,
+      "cookTime": 22
     },
     {
       "id": "cheesy-chicken-veggie-rice",
@@ -18,7 +19,8 @@
       "calories": 370,
       "protein": 28,
       "servings": 3,
-      "prepTime": 15
+      "prepTime": 15,
+      "cookTime": 20
     },
     {
       "id": "high-protein-apple-yogurt",
@@ -28,7 +30,8 @@
       "calories": 280,
       "protein": 10,
       "servings": 3,
-      "prepTime": 10
+      "prepTime": 10,
+      "cookTime": 0
     },
     {
       "id": "low-carb-chicken-pizza",
@@ -38,7 +41,8 @@
       "calories": 320,
       "protein": 46,
       "servings": 3,
-      "prepTime": 15
+      "prepTime": 15,
+      "cookTime": 30
     },
     {
       "id": "sticky-teriyaki-chicken-traybake",
@@ -48,7 +52,8 @@
       "calories": 700,
       "protein": 44,
       "servings": 3,
-      "prepTime": 20
+      "prepTime": 20,
+      "cookTime": 30
     },
     {
       "id": "smoky-honey-chili-lasagne",
@@ -58,7 +63,8 @@
       "calories": 500,
       "protein": 38,
       "servings": 4,
-      "prepTime": 15
+      "prepTime": 15,
+      "cookTime": 30
     }
   ]
 }

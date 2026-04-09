@@ -159,7 +159,7 @@ const Renderer = (() => {
       el('div', { className: 'card-meta' }, [
         el('span', { textContent: '\u{1F525} ' + recipe.calories + ' cal' }),
         el('span', { textContent: '\u{1F4E6} ' + recipe.servings + ' servings' }),
-        recipe.prepTime ? el('span', { textContent: '\u23F1 ' + recipe.prepTime + ' min' }) : null
+        recipe.prepTime ? el('span', { textContent: '\u23F1 ' + ((recipe.prepTime || 0) + (recipe.cookTime || 0)) + ' min' }) : null
       ].filter(Boolean))
     ]);
     card.appendChild(top);

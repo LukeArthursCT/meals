@@ -65,6 +65,17 @@
       "servings": 4,
       "prepTime": 15,
       "cookTime": 30
+    },
+    {
+      "id": "chipotle-steak-creamy-pasta",
+      "name": "Chipotle Steak Bites with Creamy Chipotle Pasta",
+      "mealType": "dinner",
+      "tags": ["high-protein", "meal-prep", "spicy"],
+      "calories": 598,
+      "protein": 63.5,
+      "servings": 4,
+      "prepTime": 15,
+      "cookTime": 20
     }
   ]
 }

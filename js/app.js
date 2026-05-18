@@ -1,7 +1,7 @@
 // app.js — Router, state management, initialization
 
 // Bump this version when data files change to bust browser cache
-const DATA_VERSION = 2;
+const DATA_VERSION = 3;
 
 const App = (() => {
   const state = {

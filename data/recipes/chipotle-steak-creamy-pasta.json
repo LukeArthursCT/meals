@@ -1,0 +1,61 @@
+{
+  "id": "chipotle-steak-creamy-pasta",
+  "name": "Chipotle Steak Bites with Creamy Chipotle Pasta",
+  "mealType": "dinner",
+  "tags": ["high-protein", "meal-prep", "spicy"],
+  "nutrition": {
+    "calories": 598,
+    "protein": 63.5,
+    "carbs": 60.4,
+    "fat": 11
+  },
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "description": "Seared chipotle-marinated steak bites served over a creamy, smoky chipotle pasta with spinach. High protein, low fat, and packed with flavor.",
+  "ingredientSections": [
+    {
+      "heading": "Chipotle Steak Bites",
+      "items": [
+        "650g lean steak, diced (rump with fat trimmed, top sirloin, or flank)",
+        "20g chipotle paste (Waitrose)",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1 tsp smoked paprika",
+        "1 tsp dried coriander/cilantro",
+        "Juice of 1 lime",
+        "Cooking spray"
+      ]
+    },
+    {
+      "heading": "Creamy Chipotle Pasta",
+      "items": [
+        "300g penne pasta (uncooked weight)",
+        "100ml reserved pasta water",
+        "200g spinach"
+      ]
+    },
+    {
+      "heading": "Chipotle Sauce (blend)",
+      "items": [
+        "260ml low fat milk (1%)",
+        "150g light cream cheese (Philadelphia lightest)",
+        "25g grated parmesan",
+        "2 garlic cloves",
+        "40g chipotle paste",
+        "20g honey",
+        "1 tsp salt"
+      ]
+    }
+  ],
+  "steps": [
+    "Toss the diced steak with chipotle paste, garlic powder, onion powder, smoked paprika, dried coriander, and lime juice. Set aside to marinate while you prep the pasta.",
+    "Bring a large pot of salted water to a boil and cook the penne according to package instructions. Reserve 100ml of pasta water before draining.",
+    "While the pasta cooks, add all sauce ingredients (milk, cream cheese, parmesan, garlic, chipotle paste, honey, salt) to a blender and blend until smooth.",
+    "Heat a large pan over high heat with cooking spray. Sear the steak bites for 1-2 minutes per side until browned but still juicy. Remove and rest.",
+    "In the same pan (or the pasta pot), pour in the blended sauce and warm gently. Add the spinach and stir until wilted.",
+    "Add the drained pasta to the sauce, loosening with reserved pasta water as needed until creamy.",
+    "Divide pasta between 4 portions and top with the chipotle steak bites."
+  ],
+  "dateAdded": "2026-05-18"
+}

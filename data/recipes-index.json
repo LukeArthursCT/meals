@@ -76,6 +76,17 @@
       "servings": 4,
       "prepTime": 15,
       "cookTime": 20
+    },
+    {
+      "id": "high-protein-chicken-alfredo-pizza",
+      "name": "High-Protein Chicken Alfredo Pizza",
+      "mealType": "dinner",
+      "tags": ["high-protein", "meal-prep"],
+      "calories": 946,
+      "protein": 113,
+      "servings": 1,
+      "prepTime": 15,
+      "cookTime": 20
     }
   ]
 }

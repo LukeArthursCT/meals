@@ -1,0 +1,57 @@
+{
+  "id": "high-protein-chicken-alfredo-pizza",
+  "name": "High-Protein Chicken Alfredo Pizza",
+  "mealType": "dinner",
+  "tags": ["high-protein", "meal-prep"],
+  "nutrition": {
+    "calories": 946,
+    "protein": 113,
+    "carbs": 77,
+    "fat": 17
+  },
+  "servings": 1,
+  "prepTime": 15,
+  "cookTime": 20,
+  "description": "A protein-packed pizza built on a 2-ingredient Greek yoghurt dough, topped with a creamy cottage cheese alfredo sauce and diced chicken breast. Delivers 113g of protein for under 950 calories.",
+  "ingredientSections": [
+    {
+      "heading": "Dough",
+      "items": [
+        "100g plain flour (any plain flour works)",
+        "1.5 tsp baking powder",
+        "120g low-fat Greek yoghurt",
+        "Italian seasoning, salt & garlic powder to taste"
+      ]
+    },
+    {
+      "heading": "Alfredo Sauce",
+      "items": [
+        "180g low-fat cottage cheese",
+        "80ml fat-free evaporated milk (or low-fat milk)",
+        "12g freshly grated parmesan cheese",
+        "Italian seasoning to taste",
+        "½ medium white onion, diced"
+      ]
+    },
+    {
+      "heading": "Toppings",
+      "items": [
+        "65g light/low-fat grated cheese",
+        "½ medium white onion, sliced",
+        "120g cooked & diced chicken breast",
+        "Parsley flakes to garnish"
+      ]
+    }
+  ],
+  "steps": [
+    "Preheat oven to 220°C (425°F).",
+    "Make the dough: combine plain flour, baking powder, Greek yoghurt, Italian seasoning, salt and garlic powder. Knead until a smooth dough forms. If too sticky, add a little more flour gradually until workable.",
+    "Roll or press the dough into a pizza base on a lined baking tray. Par-bake for 6–8 minutes until just set.",
+    "Meanwhile, blend the cottage cheese, evaporated milk and parmesan until smooth. Stir in Italian seasoning and the diced onion.",
+    "Spread the alfredo sauce over the par-baked base. Top with grated cheese, sliced onion and diced chicken breast.",
+    "Bake for a further 10–12 minutes until the cheese is melted and golden.",
+    "Garnish with parsley flakes, slice and serve."
+  ],
+  "notes": "Dough consistency depends on the yoghurt brand — some are wetter than others. Add flour gradually if sticky, or substitute a store-bought low-cal base in a pinch.",
+  "dateAdded": "2026-05-26"
+}

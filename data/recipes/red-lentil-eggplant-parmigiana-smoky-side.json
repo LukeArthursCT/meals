@@ -1,0 +1,81 @@
+{
+  "id": "red-lentil-eggplant-parmigiana-smoky-side",
+  "name": "Red Lentil Eggplant Parmigiana with Smoky Air-Fryer Eggplant",
+  "mealType": "dinner",
+  "tags": ["vegetarian", "high-protein", "high-fiber", "air-fryer"],
+  "nutrition": {
+    "calories": 880,
+    "protein": 42,
+    "carbs": 80,
+    "fat": 44
+  },
+  "servings": 2,
+  "prepTime": 25,
+  "cookTime": 60,
+  "description": "A full eggplant dinner for two: dry-skillet eggplant rounds layered with a red lentil tomato sauce, provolone, mozzarella, and Parmigiano, served with a side of smoky air-fried eggplant over cool garlic yogurt. The lentils blend invisibly into the sauce and add around 12 g protein and 5 g fiber per serving.",
+  "ingredientSections": [
+    {
+      "heading": "Red Lentil Tomato Sauce",
+      "items": [
+        "100g (1/2 cup) dried red lentils, rinsed",
+        "300ml water or vegetable stock",
+        "1 onion (finely chopped)",
+        "4 garlic cloves (minced)",
+        "1.5 cups tomato sauce",
+        "Handful of fresh basil",
+        "1 tbsp olive oil",
+        "Salt & black pepper"
+      ]
+    },
+    {
+      "heading": "Parmigiana (Main)",
+      "items": [
+        "1 large eggplant (sliced into rounds)",
+        "20g (3/4 oz) provolone",
+        "1 ball fresh mozzarella (~125g)",
+        "Freshly grated Parmigiano Reggiano, generously (~30g)",
+        "Salt & black pepper"
+      ]
+    },
+    {
+      "heading": "Smoky Air-Fryer Eggplant (Side)",
+      "items": [
+        "1 medium eggplant (cut into 2-3 cm cubes)",
+        "1-1.5 tbsp olive oil",
+        "0.5 tsp smoked paprika",
+        "0.5 tsp ground cumin",
+        "Garlic powder (a little, optional)",
+        "Salt & black pepper"
+      ]
+    },
+    {
+      "heading": "Garlic Yogurt & Finishing",
+      "items": [
+        "3-4 tbsp Greek yogurt",
+        "0.5 small garlic clove (grated)",
+        "Squeeze of lemon juice + zest",
+        "Drizzle of olive oil",
+        "Small drizzle of honey",
+        "1 tbsp toasted sesame seeds (served on the side)",
+        "Chopped parsley or mint (optional)",
+        "Chili flakes (optional)"
+      ]
+    }
+  ],
+  "steps": [
+    "Rinse the red lentils, then simmer them in the water or stock for 12-15 minutes until completely soft and falling apart. Don't drain — you want that starchy liquid in the sauce.",
+    "Meanwhile, heat the olive oil in a pan and sauté the onion until soft. Add the garlic and cook until fragrant. Pour in the tomato sauce, season with salt and pepper, add the fresh basil, and simmer for 10-15 minutes.",
+    "Tip the cooked lentils into the tomato sauce and blend smooth with a stick blender. The lentils disappear completely and leave a thick, glossy sauce — loosen with a splash of water if it's stiffer than a spoonable ragù. Taste and re-season, since the lentils mute the salt.",
+    "Slice the large eggplant into rounds. Heat a dry skillet and cook the rounds on both sides until softened and lightly golden — no oil needed.",
+    "Spread a layer of lentil tomato sauce on the bottom of a baking dish. Add a layer of eggplant, then provolone, fresh mozzarella, and a generous sprinkle of Parmigiano Reggiano.",
+    "Repeat the layers — sauce, eggplant, cheese — until everything is used. Finish with sauce, plenty of mozzarella, and Parmigiano on top.",
+    "Bake at 200°C (400°F) for about 20-25 minutes, until bubbling and beautifully golden.",
+    "While the parmigiana bakes, make the side: cut the second eggplant into 2-3 cm cubes and toss with the olive oil, smoked paprika, cumin, garlic powder if using, salt, and pepper.",
+    "Air-fry at 195°C for 12-15 minutes, shaking the basket after about 7 minutes. Don't overcrowd the basket — airflow is what gives you browning. You want the edges quite browned and slightly crisp with a soft, creamy inside; larger pieces need another 2-4 minutes.",
+    "Mix the yogurt sauce: Greek yogurt, grated garlic, a squeeze of lemon juice, a pinch of salt, and a little olive oil if you like.",
+    "Spread the yogurt across a side plate, pile the hot eggplant on top, and finish with lemon zest or juice, a drizzle of olive oil, and a small drizzle of honey. Scatter over parsley, mint, or chili flakes if you have them, and put the toasted sesame seeds alongside.",
+    "Let the parmigiana rest for 5-10 minutes, finish it with fresh basil, and serve with the smoky eggplant and yogurt on the side."
+  ],
+  "notes": "Lentil quantity: ~50g dried red lentils per person is the standard portion (100g / half a cup for two), and that lands close to the 2-3 tbsp per cup of sauce usually used just for thickening — so it bulks the sauce without tasting like dal. Split red lentils are the ones to use; they collapse as they cook, so they blend away completely. Scale the parmigiana up with a second eggplant, another mozzarella ball, and 150g lentils to feed 4.",
+  "dateAdded": "2026-08-11"
+}

@@ -87,6 +87,28 @@
       "servings": 1,
       "prepTime": 15,
       "cookTime": 20
+    },
+    {
+      "id": "air-fryer-smoky-eggplant-yogurt",
+      "name": "Air-Fryer Smoky Eggplant with Garlic Yogurt",
+      "mealType": "lunch",
+      "tags": ["vegetarian", "low-carb", "low-cal", "air-fryer"],
+      "calories": 210,
+      "protein": 7,
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 15
+    },
+    {
+      "id": "eggplant-parmigiana-bake",
+      "name": "Eggplant Parmigiana Bake",
+      "mealType": "dinner",
+      "tags": ["vegetarian", "meal-prep", "low-carb"],
+      "calories": 345,
+      "protein": 19,
+      "servings": 4,
+      "prepTime": 20,
+      "cookTime": 45
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "id": "eggplant-parmigiana-bake",
+  "name": "Eggplant Parmigiana Bake",
+  "mealType": "dinner",
+  "tags": ["vegetarian", "meal-prep", "low-carb"],
+  "nutrition": {
+    "calories": 345,
+    "protein": 19,
+    "carbs": 18,
+    "fat": 20
+  },
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 45,
+  "description": "Dry-skillet eggplant layered with a simple basil tomato sauce, provolone, fresh mozzarella, and plenty of Parmigiano Reggiano, baked until bubbling and golden.",
+  "ingredientSections": [
+    {
+      "heading": "Bake",
+      "items": [
+        "1 large eggplant (sliced into rounds)",
+        "20g (3/4 oz) provolone",
+        "2 balls fresh mozzarella",
+        "Freshly grated Parmigiano Reggiano, generously",
+        "Salt & black pepper"
+      ]
+    },
+    {
+      "heading": "Tomato Sauce",
+      "items": [
+        "1 onion (finely chopped)",
+        "4 garlic cloves (minced)",
+        "2 cups tomato sauce",
+        "Handful of fresh basil",
+        "Salt & black pepper"
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the eggplant into rounds. Heat a dry skillet and cook the eggplant on both sides until softened and lightly golden — no oil needed.",
+    "For the sauce, sauté the onion until soft, add the garlic and cook until fragrant. Pour in the tomato sauce, season with salt and pepper, add fresh basil, and simmer for 10-15 minutes.",
+    "Spread a layer of tomato sauce on the bottom of a baking dish.",
+    "Add a layer of eggplant, then provolone, fresh mozzarella, and a generous sprinkle of Parmigiano Reggiano.",
+    "Repeat the layers — sauce, eggplant, cheese — until everything is used.",
+    "Finish with tomato sauce, plenty of mozzarella, and Parmigiano Reggiano on top.",
+    "Bake at 200°C (400°F) for about 20-25 minutes, or until bubbling and beautifully golden on top.",
+    "Let it rest for 5-10 minutes before serving. Finish with fresh basil."
+  ],
+  "notes": "Serves 3-4. Cooking the eggplant in a dry skillet instead of frying keeps it from soaking up oil.",
+  "dateAdded": "2026-08-11"
+}

@@ -26,12 +26,13 @@ const MealPlans = (() => {
   }
 
   function computeDayTotals(day, recipesIndex) {
-    const totals = { calories: 0, protein: 0 };
+    const totals = { calories: 0, protein: 0, fiber: 0 };
     day.meals.forEach(meal => {
       const recipe = recipesIndex.find(r => r.id === meal.recipeId);
       if (recipe) {
         totals.calories += recipe.calories;
         totals.protein += recipe.protein;
+        totals.fiber += recipe.fiber || 0;
       }
     });
     return totals;

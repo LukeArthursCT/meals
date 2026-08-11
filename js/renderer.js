@@ -205,12 +205,14 @@ const Renderer = (() => {
 
     // Nutrition strip
     const n = recipe.nutrition;
-    const strip = el('div', { className: 'nutrition-strip' }, [
+    const stats = [
       renderStat('Calories', n.calories, ''),
       renderStat('Protein', n.protein, 'g'),
       renderStat('Carbs', n.carbs, 'g'),
       renderStat('Fat', n.fat, 'g')
-    ]);
+    ];
+    if (n.fiber != null) stats.push(renderStat('Fiber', n.fiber, 'g'));
+    const strip = el('div', { className: 'nutrition-strip' }, stats);
     detail.appendChild(strip);
 
     // Meta bar
@@ -395,7 +397,8 @@ const Renderer = (() => {
       const totals = MealPlans.computeDayTotals(day, recipesIndex);
       const totalsBar = el('div', { className: 'day-totals' }, [
         el('div', { innerHTML: `<span>Calories</span><strong>~${totals.calories}</strong>` }),
-        el('div', { innerHTML: `<span>Protein</span><strong>${totals.protein}g</strong>` })
+        el('div', { innerHTML: `<span>Protein</span><strong>${totals.protein}g</strong>` }),
+        el('div', { innerHTML: `<span>Fiber</span><strong>${totals.fiber}g</strong>` })
       ]);
       dayDiv.appendChild(totalsBar);
 
